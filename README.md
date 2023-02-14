@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @augustin1977
-- 👀 I’m interested in AI
+
 - 🌱 I’m currently learning Python, C++, Java
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 you can find me at ericaugustin@hotmail.com
